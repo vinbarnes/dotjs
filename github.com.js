@@ -1,4 +1,4 @@
-$("ul.actions").prepend("<li><a href='https://gist.github.com/gists' id='gist-url'>gist it</a></li>")
+$("div.file ul.actions").prepend("<li><a href='https://gist.github.com/gists' id='gist-url'>gist it</a></li>")
 
 function buildGistForm() {
   $("body").append("\
