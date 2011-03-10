@@ -1,6 +1,0 @@
-local:
-  deploy_to: "/Users/barnekr/.js"
-  repository: "git@github.com:vinbarnes/dotjs.git"
-  branch: "master"
-  deploy_config_to: "/Users/barnekr/.dotjs-config"
-  config_repository: "git@github.com:vinbarnes/stash.git"
